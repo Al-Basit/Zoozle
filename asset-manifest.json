@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zoozle/static/css/main.2461b4b2.css",
+    "main.js": "/Zoozle/static/js/main.12b1ee71.js",
+    "static/js/787.55ac36c2.chunk.js": "/Zoozle/static/js/787.55ac36c2.chunk.js",
+    "index.html": "/Zoozle/index.html",
+    "main.2461b4b2.css.map": "/Zoozle/static/css/main.2461b4b2.css.map",
+    "main.12b1ee71.js.map": "/Zoozle/static/js/main.12b1ee71.js.map",
+    "787.55ac36c2.chunk.js.map": "/Zoozle/static/js/787.55ac36c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2461b4b2.css",
+    "static/js/main.12b1ee71.js"
+  ]
+}
