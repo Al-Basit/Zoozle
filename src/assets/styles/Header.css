@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0.8rem 1rem;
+  align-items: center;
+}
+
+.header > *:not(.header__links) {
+  cursor: pointer;
+}
+
+.header a {
+  margin-right: 1rem;
+  text-decoration: inherit;
+  color: var(--clr-black);
+  font-size: 0.9rem;
+}
+
+.header a:hover {
+  text-decoration: underline;
+}
+
+.header > .MuiSvgIcon-root {
+  margin-right: 0.6rem;
+  padding: 0.3rem;
+}
+
+.header > .MuiSvgIcon-root:hover {
+  background-color: var(--clr-grey);
+  border-radius: 100%;
+}
