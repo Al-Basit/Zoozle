@@ -118,7 +118,7 @@ div.searchPage__mainHeader {
 
 @media (min-width: 768px) {
   .searchPage__results {
-    margin-left: 70px;
+    margin-left: 170px;
   }
 }
 
@@ -126,7 +126,11 @@ div.searchPage__mainHeader {
 
   .searchPage {
     position: absolute;
-    left: -12rem;
+    left: -3rem;
+}
+
+.searchPage__logo{
+  margin: 1em 28rem 2em;
 }
 div.header {
   display: none;
@@ -137,11 +141,10 @@ div.header {
     min-width: none;
     padding-inline: 1em;
   }
-  div.searchPage__mainHeader {
-  }
+
   .searchPage__results {
     min-width: min-content;
-    margin-left: none;
+    margin-left: 9em;
   }
 
   .searchPage__result {
@@ -151,5 +154,8 @@ div.header {
   .search__input  {
     margin-inline: auto;
     width: 100%;
+  }
+  .paginationButtons{
+    margin-left: 29em;
   }
 }

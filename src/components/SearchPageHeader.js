@@ -32,8 +32,10 @@ function SearchPageHeader() {
         <div className="searchPage__mainHeader">
           <Link to="/">
             <img
+            // style={{height: 100}}
               className="searchPage__logo"
-              src="./images/zoozle.png"
+              src="https://lh3.googleusercontent.com/d_S5gxu_S1P6NR1gXeMthZeBzkrQMHdI5uvXrpn3nfJuXpCjlqhLQKH_hbOxTHxFhp5WugVOEcl4WDrv9rmKBDOMExhKU5KmmLFQVg"
+              // src="./images/zoozle.png"
               alt=""
             />
           </Link>
